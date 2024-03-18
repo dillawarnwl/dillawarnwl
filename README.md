@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ATIF176/ATIF176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dillawarnwl/dillawarnwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
