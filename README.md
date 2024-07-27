@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dillawarnl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dillawarnwl/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/dillawarnwl)
 
 ---
@@ -45,7 +45,7 @@ Hello! I am Mohammad Dillawar, a dedicated and passionate Software Engineer with
 
 ### Contact Me
 
-- **Email**: [your-email@example.com](mailto:dillawarnwl@gmail.com)
+- **Email**: [dillawarnwl@gmail.com](mailto:dillawarnwl@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dillawarnwl/)
 - **GitHub**: [GitHub Profile](https://github.com/dillawarnwl)
 
